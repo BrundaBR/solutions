@@ -10,9 +10,5 @@ def pave(l):
 	return x*y
 
 
-
-
-
-
 lis=list(map(int,input().split()))
 print(pave(lis))
